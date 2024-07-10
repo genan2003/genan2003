@@ -3,5 +3,5 @@
 
 <h3>When I code, I rely on</h3>
 <p>
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?style=flat-square&logo=TypeScript">
+<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?style=flat-square&logo=Python">
 </p>
