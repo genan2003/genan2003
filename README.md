@@ -11,10 +11,6 @@
 </p>
 
 <h3>Currently learning</h3>
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-</p>
 
 <h3>My most recent articles(in romanian language)</h3>
 <p>As a little background, this articles wore written by me in order to help the highschool students to learn for programming competitions, because I consider to many programmers the math behind algorithms is a very big problem</p>
