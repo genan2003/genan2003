@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Genan Omer</h1>
-<h3 align="center">I'm a student at the Politehnica University of Bucharest, where I'm diving deep into the fascinating worlds of programming and mathematics.</h3>
+<h3 align="center">Driven by a passion for technology and problem-solving, I am committed to expanding my knowledge and skills in this dynamic field.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=genan2003&label=Profile%20views&color=0e75b6&style=plastic" alt="genan2003" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://tinyurl.com/3vce72dc](https://tinyurl.com/3vce72dc)
 
-- 💬 Ask me about **Python, Django, Java, SpringBoot**
+- 💬 Ask me about **Python, Django, Java, SpringBoot, Databases**
 
 - 📫 How to reach me **omer.genan@outlook.com**
 
