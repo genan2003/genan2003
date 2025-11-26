@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **omer.genan@outlook.com**
 
-- 📄 Know about my experiences [https://tinyurl.com/3fe8jcyp](https://tinyurl.com/3fe8jcyp)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
