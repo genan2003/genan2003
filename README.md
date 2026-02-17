@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=genan2003&label=Profile%20views&color=0e75b6&style=plastic" alt="genan2003" /> </p>
 
-- 🌱 I’m currently learning **Rust, Embassy, Embedded**
+- 🌱 I’m currently learning **Functional Programming, Scala, Neural Networks**
 
 - 📝 I regularly write articles on [https://tinyurl.com/3vce72dc](https://tinyurl.com/3vce72dc)
 
-- 💬 Ask me about **Python, Django, Java, SpringBoot, Databases**
+- 💬 Ask me about **Rust, Embedded, Python, Django, Java, SpringBoot, Databases**
 
 - 📫 How to reach me **omer.genan@outlook.com**
 
